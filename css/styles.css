@@ -35,3 +35,12 @@
 .p-color-h {
     color: #A8A8A8;
 }
+.b-color-b {
+    color: #6D9BF5;
+}
+ol li::marker {
+  font-weight: bold;
+}
+.bold {
+    font-weight: bold;
+}
