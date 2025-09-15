@@ -42,3 +42,11 @@ ol li::marker {
 .bold {
     font-weight: bold;
 }
+ body {
+      font-family: 'Montserrat', sans-serif;
+    }
+.job-title {
+  margin-left: 40px;
+  margin-top: 40px;
+  font-weight: bold;
+}
